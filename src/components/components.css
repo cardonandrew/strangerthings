@@ -1,0 +1,99 @@
+#form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+
+}
+
+.homePage {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: #282c34;
+    color: white;
+    font-family: Arial;
+    
+  }
+
+  #createPost{
+    
+   
+
+    
+
+  }
+
+  #profilePage {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: #282c34;
+    color: white;
+    font-family: Arial;
+    padding-bottom: 80px;
+    
+  }
+  .loginPage {
+    display: flex;
+    padding: 10px;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #282c34;
+    color: white;
+    font-family: Arial;
+    
+  }
+
+  #singlePost{
+    background-color: #4b5a79;
+    padding: 30px;
+    margin:20px;
+    text-align: center;
+    border-radius: 10px;
+    margin: 10px;
+    width: 90%;
+
+
+  }
+  #posts{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+    width: 90%;
+    padding: 10px;
+    text-align: center;
+    border-radius: 10px;
+    margin:5px;
+
+  }
+  button{
+
+    background-color: #282c34;
+    color: white;
+    padding: 10px;
+    font-family: Arial;
+    font-size: medium;
+    font-weight: bolder;
+    border-radius: 20px;
+    margin:5px;
+    
+  }
+.pageTitle{
+    font-weight: bolder;
+    font-size: 50px;
+    margin:20px;
+
+}
+#author{
+    color:rgb(101, 27, 27)
+}
+
+input{
+    margin:5px;
+}
